@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tricept_day">Tricept Day</string>
+    <string name="forearm_day">ForeArm Day</string>
+    <string name="bicept_day">Bicept Day</string>
+    <string name="chest_day">Chest Day</string>
+</resources>

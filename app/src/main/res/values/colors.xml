@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#20dce6</color>
+    <color name="colorPrimaryDark">#f26b6b</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorbtn">#1ff514</color>
+    <color name="colorbtn2">#000000</color>
+    <color name="colorbackground">#8000f7</color>
+    <color name="triceptclr">#ed8453</color>
+    <color name="forearm">#96eb78</color>
+    <color name="bckgrd">#2f3542</color>
+    <color name="bckgrd2">#3742fa</color>
+    <color name="bckgrd3">#84817a</color>
+</resources>

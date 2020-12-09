@@ -1,0 +1,1 @@
+The Goal dari project mobile kami adalah membuat aplikasi pemandu gym untuk pemula dan 
